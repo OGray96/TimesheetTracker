@@ -1,5 +1,9 @@
 # Timesheet Tracker
 
+## Why I Built This?
+
+In my role i have to track my work hourly and note which client i am working for at the time. In order to make sure the timesheets are correct and accurate i created this program that would store job details and create a csv that would contain all my timesheet info.
+
 ## Install Instructions
 
 ```
