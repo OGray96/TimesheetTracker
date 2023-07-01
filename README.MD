@@ -32,3 +32,9 @@ Reviewing the timesheet.csv will contain all timesheet entries that have been in
 ## Screenshot
 
 ![Screenshot of live application](./img/screenshot.png)
+
+## Program Information
+
+### Package Used
+
+1. Inquirer
