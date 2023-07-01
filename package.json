@@ -1,0 +1,12 @@
+{
+  "name": "timesheettracker",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "pkg": "^5.8.1"
+  },
+  "author":"Oliver Gray",
+  "bin":{
+    "execute":"index.js"
+  }
+}
